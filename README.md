@@ -1,5 +1,5 @@
 # Controllable LED lights for Christmas tree
-![Christmas tree](https://github.com/druumio/CristmasTree/blob/main/Images/tree.jpeg)
+<img src="https://github.com/druumio/CristmasTree/blob/main/Images/tree.jpeg" width="200">
 This is for my parents
 ## Parts
 -  ESP32 Development Board
