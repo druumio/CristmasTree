@@ -4,7 +4,7 @@
 This is for my parents
 ## Parts
 -  ESP32 Development Board
-	-[<img src="https://github.com/druumio/CristmasTree/blob/main/Images/esp32.jpeg" width="200"/>]()
+	- [<img src="https://github.com/druumio/CristmasTree/blob/main/Images/esp32.jpeg" width="200"/>]()
 -  WS2811 Addressable RGB LED String
 	- [link](https://www.aliexpress.com/item/32788470822.html)
 ## Dependency
