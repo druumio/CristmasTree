@@ -1,9 +1,10 @@
 # Controllable LED lights for Christmas tree
 [<img src="https://github.com/druumio/CristmasTree/blob/main/Images/tree.jpeg" width="200"/>]()
+
 This is for my parents
 ## Parts
 -  ESP32 Development Board
-![ESP32](https://github.com/druumio/CristmasTree/blob/main/Images/esp32.jpeg)
+[<img src="https://github.com/druumio/CristmasTree/blob/main/Images/esp32.jpeg" width="200"/>]()
 -  WS2811 Addressable RGB LED String
 	- [link](https://www.aliexpress.com/item/32788470822.html)
 ## Dependency
