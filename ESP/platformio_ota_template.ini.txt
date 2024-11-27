@@ -12,4 +12,6 @@
 platform = espressif32
 board = esp32dev
 framework = arduino
+upload_protocol = espota
+upload_port = ;IP for the ESP32 device
 lib_deps = fastled/FastLED@^3.9.3
